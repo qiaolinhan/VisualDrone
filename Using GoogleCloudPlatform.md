@@ -34,3 +34,4 @@ window.open('data:text/csv;charset=utf-8,' + escape(urls.join('\n')));
   
 # SGD
 a web: http://matrixmultiplication.xyz
+most time we need less data than we think, unbalanced data also works
