@@ -35,3 +35,5 @@ window.open('data:text/csv;charset=utf-8,' + escape(urls.join('\n')));
 # SGD
 a web: http://matrixmultiplication.xyz
 most time we need less data than we think, unbalanced data also works
+Rank: how many axes or how many dimennsions are there.
+**Maybe this can be used into the trajectory tracking problem? By an appropriate learning rate to zero the gradient, update parameter 'a'**
