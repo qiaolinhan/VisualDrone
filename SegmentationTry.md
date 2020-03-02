@@ -20,3 +20,5 @@ NEXT PART: data augmentation, dropout, regularization, weight decay
 * Avoiding running out of GPU ram, we can use the mixed recision training, `to_fp16()` in `fastai` and new CUDA driver
 * Combination of matrix multiplication and unlinear activation functions, universal approximation theorem
 * remember platform.ai to label the data
+## Lesson 6
+* how to build a CNN model
